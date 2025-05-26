@@ -16,3 +16,4 @@ C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\refint\Weat
 C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.pdb
 C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.genruntimeconfig.cache
 C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\ref\Weather App.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.sourcelink.json

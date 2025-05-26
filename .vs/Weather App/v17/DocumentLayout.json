@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|c:\\users\\yum1k\\source\\repos\\weather app\\weather app\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA3D069-CBDE-4C3E-A94B-1CD6CF71F802}|Weather App\\Weather App.csproj|solutionrelative:weather app\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherData.cs",
               "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\WeatherData.cs",
               "RelativeDocumentMoniker": "Weather App\\WeatherData.cs",
@@ -42,38 +42,24 @@
               "RelativeToolTip": "Weather App\\WeatherData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:29:53.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T11:29:53.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\ApiClient.cs",
-              "RelativeDocumentMoniker": "Weather App\\ApiClient.cs",
-              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\ApiClient.cs",
-              "RelativeToolTip": "Weather App\\ApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:30:08.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WeatherService.cs",
               "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\WeatherService.cs",
               "RelativeDocumentMoniker": "Weather App\\WeatherService.cs",
               "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\WeatherService.cs",
               "RelativeToolTip": "Weather App\\WeatherService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:29:40.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UIHandler.cs",
               "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\UIHandler.cs",
               "RelativeDocumentMoniker": "Weather App\\UIHandler.cs",
@@ -87,12 +73,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Weather App\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\ApiClient.cs",
+              "RelativeToolTip": "Weather App\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:30:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\Program.cs",
               "RelativeDocumentMoniker": "Weather App\\Program.cs",
               "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Weather App\\Weather App\\Program.cs",
               "RelativeToolTip": "Weather App\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:19:06.13Z",
               "EditorCaption": ""

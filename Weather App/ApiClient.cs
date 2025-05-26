@@ -7,10 +7,10 @@ using System.Net.Http;
 
 namespace Weather_App
 {
-    public class ApiClient
+    public class ApiClient(string apiKey)
     {
         private static readonly HttpClient _httpClient = new HttpClient();
-        private const string apiKey = "e25200f69a391237ab2eaa4f130b677b";
+        private string apiKey = apiKey;
 
         public async Task<string> GetWeatherJsonAsync(string city)
         {

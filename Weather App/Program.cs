@@ -4,12 +4,15 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var apiClient = new ApiClient();
-        var weatherService = new WeatherService();
-        var uiHandler = new UIHandler();
 
         Console.Write("Введите город: ");
         string city = Console.ReadLine();
+        Console.Write("Введите ваш ключ API: ");
+        string apiKey = Console.ReadLine();
+
+        var apiClient = new ApiClient(apiKey);
+        var weatherService = new WeatherService();
+        var uiHandler = new UIHandler();
 
         string jsonData = await apiClient.GetWeatherJsonAsync(city);
 
