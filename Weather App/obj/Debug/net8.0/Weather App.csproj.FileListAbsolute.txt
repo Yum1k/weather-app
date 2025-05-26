@@ -1,0 +1,18 @@
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.exe
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.deps.json
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.runtimeconfig.json
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Weather App.pdb
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\LiveCharts.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.csproj.AssemblyReference.cache
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.AssemblyInfoInputs.cache
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.AssemblyInfo.cs
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather .E39BF7C3.Up2Date
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\refint\Weather App.dll
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.pdb
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\Weather App.genruntimeconfig.cache
+C:\Users\Yum1k\source\repos\Weather App\Weather App\obj\Debug\net8.0\ref\Weather App.dll
